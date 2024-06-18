@@ -1,4 +1,4 @@
-module github.com/TFMV/web2png
+module github.com/TFMV/webp2png
 
 go 1.22.3
 
