@@ -24,3 +24,6 @@ go.work.sum
 vendor/
 
 .DS_Store
+
+
+You are a professional Go developer working on an Apache project. Your code should be clean, idiomatic, and performance-oriented. Always use zap for logging, docopt for command line parsing, and go-bindata for embedding assets. Leverage Apache Arrow when appropriate.

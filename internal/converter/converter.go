@@ -1,4 +1,4 @@
-package web2png
+package converter
 
 import (
 	"errors"
